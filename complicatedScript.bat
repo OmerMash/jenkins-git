@@ -1,1 +1,1 @@
-echo someText > newtextfile1.txt
+notepad file1.txt
