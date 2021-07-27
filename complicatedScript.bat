@@ -1,1 +1,1 @@
-echo 'hello!!!!'
+echo someText > newtextfile1.txt
